@@ -1,0 +1,14 @@
+{
+  "name": "udinus-library-system",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  }
+}
